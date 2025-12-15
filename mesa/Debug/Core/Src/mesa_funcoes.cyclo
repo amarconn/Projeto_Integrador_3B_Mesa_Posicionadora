@@ -1,0 +1,7 @@
+../Core/Src/mesa_funcoes.c:6:6:TelaInicial	1
+../Core/Src/mesa_funcoes.c:23:6:TelaModo	1
+../Core/Src/mesa_funcoes.c:31:6:TelaCalib1	3
+../Core/Src/mesa_funcoes.c:52:6:TelaCalib2	1
+../Core/Src/mesa_funcoes.c:62:6:TelaAngulo1	13
+../Core/Src/mesa_funcoes.c:112:6:TelaRun	3
+../Core/Src/mesa_funcoes.c:133:6:Passo	7
